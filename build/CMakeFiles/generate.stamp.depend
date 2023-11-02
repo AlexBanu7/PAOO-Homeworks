@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Apps/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/CMakeLists.txt
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/3.28.0-rc1/CMakeCCompiler.cmake
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/3.28.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/3.28.0-rc1/CMakeRCCompiler.cmake
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/3.28.0-rc1/CMakeSystem.cmake

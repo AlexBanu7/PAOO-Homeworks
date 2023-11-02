@@ -1,0 +1,10 @@
+^C:\USERS\ALEXB\DESKTOP\PAOO\PAOO-HOMEWORKS\BUILD\CMAKEFILES\21B95AD77AF365B94815587FCE529CB4\GENERATE.STAMP.RULE
+setlocal
+C:\Apps\CMake\bin\cmake.exe -SC:/Users/alexb/Desktop/PAOO/PAOO-Homeworks -BC:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/tema_1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

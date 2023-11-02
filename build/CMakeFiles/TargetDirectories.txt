@@ -1,0 +1,3 @@
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/tema_1.dir
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/alexb/Desktop/PAOO/PAOO-Homeworks/build/CMakeFiles/ZERO_CHECK.dir
