@@ -1,11 +1,9 @@
 # CMake version
 cmake_minimum_required(VERSION 3.0)
 
+set(myproject "hello")
 # Project name
-project(tema_1)
-
-# Define the search path for header files
-include_directories(inc)
+project(${myproject})
 
 # Specify the required C++ standard
 if(CMAKE_VERSION GREATER "3.1.2") 
@@ -18,6 +16,11 @@ else()
     endif()    
 endif()    
 
-# Define the executable
-include_directories(src)
-include_directories(inc/credit_card)
+# Define the executable and link it with the "credit_card" library
+add_executable(${PROJECT_NAME} 
+    main.cpp
+    credit_card.cpp
+)
+
+# Link the "credit_card" library to the executable
+target_link_libraries(${PROJECT_NAME} credit_card)
